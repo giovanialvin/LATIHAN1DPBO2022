@@ -17,7 +17,20 @@ Buat pula inner class dengan atribut privat berupa nama kejuaraan, tahun juara, 
 Pada file Main.java, include kembali library. Di dalam main, deklarasikan objek tim pertama dan dekarasikan array of string nama nama pemain. Lakukan input pada array of string player. Lalu set nama, negara, tahun berdiri, dan nama nama pemain juga set kejuaraan terakhir yang diraih. Lalu tampilkan hasilnya. <br>
 Deklarasikan array of string nama pemain kedua dan lakukan input. Lalu deklarasikan objek tim kedua menggunakan konstruktor berparameter. Tampilkan tim kedua<br> 
 
-<b>Poin B.php </b>
+<b>Poin B.php </b><br>
+Pada kelas SoccerClub, deklarasikan atribut yang akan dipakai, nama(name, negara(nation), tahun berdiri (year), pemain (players) dalam string (khusus atribut players menggunakan array of string). <br>
+Buat konstruktor berparameter sesuai atribut, salin nilai pada parameter lalu masukkan nilai ke atribut kelas. Buat parameter get set (getter & setter). Lalu buat output untuk menampilkan nilai atribut.<br>
+Pada file index, include file SoccerClub.php. Deklarasikan objek tim pertama dan dekarasikan array of string nama nama pemain. Lakukan input pada string array player. Lalu tampilkan hasilnya. <br>
+Deklarasikan array of string nama pemain kedua dan lakukan input. Lalu deklarasikan objek menggunakan konstruktor kosong dan lakukan input set. Tampilkan tim kedua<br> 
+
+<b>Poin B.py</b><br>
+Input library (bingung nama library nya apa). Pada kelas SoccerClub, deklarasikan atribut yang akan dipakai, nama(name, negara(nation), tahun berdiri (year), pemain (players) dalam strin. <br>
+Buat konstruktor berparameter sesuai atribut, salin nilai pada parameter lalu masukkan nilai ke atribut kelas. Buat parameter get set (getter & setter). Lalu buat output untuk menampilkan nilai atribut.<br>
+Buat pula inner class dengan atribut privat berupa nama kejuaraan, tahun juara, dan tipe kejuaraan. Buat konstruk berparameter di dalam inner class dan juga buat method getter dan setter serta output. Deklarasikan class trophy untuk digunakan dalam method get set trophy.<br>
+Pada file main.py, include kembali library dan file SoccerClub. Deklarasikan objek tim pertama.Lalu set nama, negara, tahun berdiri, dan nama nama pemain juga set kejuaraan terakhir yang diraih. Lalu tampilkan hasilnya. <br>
+Deklarasikan array of string nama pemain kedua dan lakukan input. Lalu deklarasikan objek tim kedua menggunakan konstruktor berparameter. Tampilkan tim kedua.<br> 
+  
+  
 ## Screenshoot Hasil Akhir
   <b>Poin A  <br>
   ![image](https://user-images.githubusercontent.com/99602640/153893182-94955580-0dc5-4fcb-a7c0-fa08c1d89497.png)
