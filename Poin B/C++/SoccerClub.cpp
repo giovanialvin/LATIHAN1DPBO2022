@@ -62,5 +62,5 @@ class SoccerClub{
             }
     	}
     //Destructor
-    ~SoccerClub()
+    ~SoccerClub();
 };
