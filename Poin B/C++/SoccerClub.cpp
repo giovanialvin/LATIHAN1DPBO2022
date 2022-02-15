@@ -61,4 +61,6 @@ class SoccerClub{
                 cout << "                   - " + this->players[i] << endl;
             }
     	}
+    //Destructor
+    ~SoccerClub()
 };
