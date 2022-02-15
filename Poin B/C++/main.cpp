@@ -35,6 +35,5 @@ int main(){
     SoccerClub Team2("Justice Football Team", "DCEU", "1988", arrPlayers2);
     Team2.output();
 	
-    ~Main();
     return 0;
 }
