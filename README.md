@@ -1,4 +1,6 @@
 # LATIHAN1DPBO2022
+Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN1 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin<br>
+
 ## Penjelasan Kode
 <b>Poin A</b><br>
 Pada Kelas Mahasiswa, deklarasikan atribut private NIM, nama, jenis kelamin, program studi, dan semester. Inisialisasi Konstruktor berparameter sesuai atribut. Deklarasikan pula methods get set (setter & getter).<br>
